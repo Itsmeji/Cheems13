@@ -12,27 +12,27 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Fraszz" //ur yt chanel name
-global.socialm = "GitHub: Linkiddrak" //ur github or insta name
+global.socialm = "GitHub: itsmeji" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'CheemsBot-MD13' //ur bot Name
-global.ownernumber '+237698793862' //ur owner number
-global.ownername = 'MDG' //ur owner name
+global.botname = '𓆩❦𝕾𝕮𝕻ꕥ𓆪『🪶𝕭Ω𝕿🪽』' //ur bot Name
+global.ownernumber '+22899869601' //ur owner number
+global.ownername = 'DG' //ur owner name
 global.websitex = "https://www.youtube.com/@FraszHost"
-global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
-global.themeemoji = '❄️'
-global.wm = "Darki Bot Inc."
+global.wagc = "https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV"
+global.themeemoji = '☀️'
+global.wm = "SCP Bot Inc."
 global.botscript = 'https://github.com/Fraszz/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "MDG"
-global.creator = "22871255034@s.whatsapp.net"
+global.creator = "22896870256@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["698793862"] // Premium User
+global.premium = ["22896870256"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v1' // menu type 'v1' => 'v12'
+global.typemenu = 'v5' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
